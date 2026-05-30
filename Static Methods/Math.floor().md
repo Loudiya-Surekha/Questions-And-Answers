@@ -5,6 +5,8 @@ console.log(Math.floor(5.95));
 // Expected output: 5
 ```
 
+---
+
 **Description**
 
 Because floor() is a static method of Math, you always use it as Math.floor(), rather than as a method of a Math object you created (Math is not a constructor).

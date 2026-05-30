@@ -1,4 +1,5 @@
-#The Math.abs() static method returns the absolute value of a number.
+##The Math.abs() static method returns the absolute value of a number.
+
 ```
 function difference(a, b) {
   return Math.abs(a - b);
